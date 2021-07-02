@@ -3,6 +3,5 @@
 ['remote "remote"']
     url = s3://rahulrajdvcs3/remote/
     credentialpath = /home/rahul/.aws/credentials
-    access_key_id = AKIASKYBUOENJDCSZLVD
-    secret_access_key = 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
+    
 
